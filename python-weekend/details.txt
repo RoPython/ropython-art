@@ -1,0 +1,10 @@
+Ratio
+-----
+fb: 851x315 -> 2.7
+g+: 1200x300 -> 4
+
+Fonts
+-----
+pyw-logo: Century Gothic Bold, Gill Sans MT Regular
+event: Bodoni MT Regular
+date: Champagne & Limousines
