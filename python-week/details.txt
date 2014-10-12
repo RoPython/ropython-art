@@ -2,9 +2,11 @@ Ratio
 -----
 fb: 851x315 -> 2.7
 g+: 1200x300 -> 4
+flyer: 210x148 -> 1.4 (A5)
 
 Fonts
 -----
 pyw-logo: Century Gothic Bold, Gill Sans MT Regular
 event: Bodoni MT Regular
 date: Champagne & Limousines
+flyer: Calibri
