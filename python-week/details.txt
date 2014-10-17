@@ -10,3 +10,4 @@ pyw-logo: Century Gothic Bold, Gill Sans MT Regular
 event: Bodoni MT Regular
 date: Champagne & Limousines
 flyer: Calibri
+roll-up: Hemi-Head (logo), Champagne (text)
